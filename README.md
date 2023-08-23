@@ -12,10 +12,14 @@ The Landing Page project is an ideal web development endeavor for beginners. By 
 - Element Positioning: Apply CSS positioning techniques to prevent element overlap and ensure a polished appearance.
 - Responsive Design: Optionally, enhance your project by incorporating responsive design principles to make your landing page adapt to different screen sizes.
 
+## Demo
+
+![](./screenshot/screenshot.png)
+
 ### Getting Started
-> Clone or download this repository to your local machine.
-> Open the index.html file in a web browser to view the landing page.
-> Use a code editor to explore and modify the HTML and CSS files to customize the landing page according to your creative vision.
+- Clone or download this repository to your local machine.
+- Open the ```index.html``` file in a web browser to view the landing page.
+- Use a code editor to explore and modify the HTML and CSS files to customize the landing page according to your creative vision.
 
 ## Technologies Used
 
